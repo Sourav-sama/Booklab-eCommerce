@@ -275,7 +275,7 @@ html {
         align-items: center;
     }
     
-    .logo {
+    .logo_f {
         background-image: url("Logos/Booklab_4.png");
         background-size: cover;
         height: 50px;
