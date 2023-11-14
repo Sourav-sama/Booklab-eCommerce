@@ -16,11 +16,11 @@
     width: 100px;
 }
 .logo {
-    background-image: url('Logos/Booklab_4.png');
+    background-image: url('Logos/Booklab_logo_nw.png');
     background-size: cover;
-    height: 60px;
+    height: 55px;
     width: 100%;
-
+    
 }
 .border {
     border: 2px solid transparent;
@@ -251,8 +251,8 @@ ul a{
     align-items: center;
 }
 
-.logo {
-    background-image: url("Logos/Booklab_4.png");
+.logo_f {
+    background-image: url("Logos/Booklab_logo_nw.png");
     background-size: cover;
     height: 50px;
     width: 100px;
